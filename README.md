@@ -1,2 +1,0 @@
-# jenkinspipelinedemo
-Demo of jenkinsfile
